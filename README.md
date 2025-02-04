@@ -77,12 +77,9 @@ var namMember = new Array(
 
 "Tasty",
 
-"Paradise (사장돌 마트 (CEO-dol Mart) OST)",
+"Paradise (사장돌 마트 OST)",
 
 "I luv you Merry Christmas"
-
-"
- 
  
 );
  
@@ -669,7 +666,7 @@ font-family: 'Times New Roman', erif;
  
 <p class="instructions">
 <center><br /><br />
-<b>just b song sorter</b><br /><br>pick which just b song you like better in each battle to get an accurate list of your<br />favorite songs from them.<br />note: hitting 'no opinion' or 'I like both' frequently will negatively affect your results.<br /><br /></center>
+<b>just b song sorter</b><br /><br>choose which just b song you like better in each battle to get an accurate list of <br />your favorite songs from them.<br />note: hitting 'no opinion' or 'I like both' frequently will negatively affect your results.<br /><br /></center>
  
  
  
@@ -732,7 +729,7 @@ showImage();
  
 </script>
 <p class="other">
-<center><small><br /><br />used with permission.<br /><br/><a href="http://biasorter.tumblr.com/">created by biasorter</a>.
+<center><small><br /><br />by tulip @_10035552<br /><br/><a href="http://biasorter.tumblr.com/">(code by biasorter)</a>
 </small></center></small>
 </p>
  
